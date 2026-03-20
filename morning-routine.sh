@@ -3,7 +3,7 @@ tput civis
 clear
 
 
-item9=Bathroom
+item9="Bathroom, plus clean glasses while in there"
 item8=Shave
 item7=Shower
 item6="Brush teeth"
