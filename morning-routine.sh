@@ -4,14 +4,14 @@ clear
 
 
 item9="Bathroom, plus clean glasses while in there"
-item8=Shave
-item7=Shower
+item8="Shave"
+item7="Shower"
 item6="Brush teeth"
-item5="Have your mother dry and then brush your hair"
-item4=Dress
-item3="Make yourself smell nice with sprays"
-item2=Drink
-item1=Eat
+item5="Dress"
+item4="Spray"
+item3="Drink"
+item2="Eat"
+item1="(wait until 12:15) Have your mother dry and then brush your hair"
 
 
 
