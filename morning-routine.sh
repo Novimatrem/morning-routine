@@ -11,7 +11,7 @@ item5="Dress"
 item4="Spray"
 item3="Eat"
 item2="Drink + Take 1 vitamin D tablet"
-item1="(wait until mother around to help, usually 12:15) Have your mother dry and then brush your hair"
+item1="(wait until mother around to help, usually 12:30) Have your mother dry and then brush your hair"
 
 
 
@@ -71,3 +71,4 @@ fi	;;
   tput civis
   clear && echo "$currentdisplayed" | tail -n $counternum | head -n 1
 done
+
