@@ -7,7 +7,7 @@ item9="Bathroom, plus clean glasses while in there"
 item8="Shave, and I mean the best you can, shave hard, shave well, shave clean. + also shave hands & wrists."
 item7="Shower (towels are on radiator)"
 item6="Brush teeth (purple toothbrush)"
-item5="Dress"
+item5="Dress, in a way where you look good in the mirror. Nothing gaudy or inappropriate like pyjamas."
 item4="Spray"
 item3="Eat"
 item2="Drink + Take 1 vitamin D tablet"
@@ -71,3 +71,4 @@ fi	;;
   tput civis
   clear && echo "$currentdisplayed" | tail -n $counternum | head -n 1
 done
+
