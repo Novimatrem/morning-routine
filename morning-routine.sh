@@ -39,11 +39,7 @@ echo $counternum
   case "$key" in
     w)
     clear
-	echo "$currentdisplayed" | tail -n $counternum | head -n 1 && counternum="$(($counternum - 1))"
-if [ "$counternum" -le "1" ]; then
-counternum="1"
-fi
-
+	echo "$currentdisplayed" | tail -n $counternum | head -n 1
 	;;
     s)
 	clear
