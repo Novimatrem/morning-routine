@@ -4,7 +4,7 @@ clear
 
 
 item9="WARNING: DO NOT INTERACT WITH YOUR MOTHER PRIOR TO 12:30 FOR ANY REASON, INCLUDING ASKING FOR HELP OF ANY KIND, OR SHE WILL USE THE OPPORTUNITY TO ATTACK YOU AND MAKE THINGS WORSE THAN IF YOU JUST DID THEM YOURSELF. EVEN INTERACTING WITH HER TO ASK THE QUESTION OF IF WE SHOULD WAIT UNTIL 12:30 OR NOT HAS CAUSED ISSUE IN THE PAST, WHERE SHE AGREES TO DO THINGS EARLIER AND THEN ATTACKS REGARDLESS, DESPITE BEING GIVEN  THE OPTION TO WAIT. STAY SAFE, YOU ARE LOVED. Use the bathroom, plus clean glasses while in there"
-item8="Shave, and I mean the best you can, shave hard, shave well, shave clean. + also shave hands & wrists."
+item8="Shave, and I mean the best you can, shave hard, shave well, shave clean. + also shave hands & wrists. Then baby wipe top of forehead/start of hair seam clean, then dry with toilet paper."
 item7="Shower (towels are on radiator)"
 item6="Brush teeth (purple toothbrush)"
 item5="Dress, in a way where you look good in the mirror. Nothing gaudy or inappropriate like pyjamas."
