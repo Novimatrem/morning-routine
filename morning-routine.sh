@@ -10,7 +10,7 @@ item6="Brush teeth (purple toothbrush)"
 item5="Dress, in a way where you look good in the mirror. Nothing gaudy or inappropriate like pyjamas."
 item4="Spray"
 item3="Eat. Then Drink. Then take a Vitamin D. Drink a lot of water always, 4 litres a day at least. Only water counts as water."
-item2="Go upstairs and clean both your rooms, fully."
+item2="Apply Eurax Cream with Crotamiton and Veloskin Soothing Gel, if needed, then, go upstairs and clean both your rooms, fully."
 item1="(wait until mother around to help, usually 12:30) Have your mother dry and then brush your hair"
 
 
