@@ -11,7 +11,7 @@ item5="Dress, in a way where you look good in the mirror. Nothing gaudy or inapp
 item4="Spray. IF YOU DID NOT WAKE UP WITH YOUR ALARM CLOCK AT 8 AM, THIS IS THE LAST STEP OF YOUR ROUTINE. STOP HERE IF YOU WOKE UP ANY TIME AFTER THE ALARM CLOCK AT A TIME BEYOND 8."
 item3="Eat. Then Drink. Then take a Vitamin D. Drink a lot of water always, 4 litres a day at least. Only water counts as water."
 item2="Apply Eurax Cream with Crotamiton and Veloskin Soothing Gel, if needed, then, go upstairs and clean both your rooms, fully. Then, if you still feel tired, and only if you feel tired, have a coffee."
-item1="(wait until mother around to help, usually 12:30) Have your mother dry and then brush your hair"
+item1="(wait until mother around to help, usually 12:30) Have your mother dry and then brush your hair. Then, apply additional Eurax Cream with Crotamiton and Veloskin Soothing Gel, if needed."
 
 
 
